@@ -1,0 +1,145 @@
+/* Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+#name{
+   
+  display: flex;
+  justify-content: center;
+  color: rgb(0 0 0 / 68%);
+  margin-top: 28px;
+   
+
+}
+/* Container Styles */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  
+
+
+}
+
+.term{
+  display:flex;
+  justify-content: space-around;
+  background-color: #ff720c;
+  margin-bottom: 30px;
+  border-radius: 124px 112px;
+  background-color: #ddd;
+  
+
+}
+
+/* Search Input Styles */
+input{
+  width: 30%;
+  margin-left: 205px;
+  margin-top: 19px;
+  margin-bottom: 20px;
+  padding-top: 0px;
+  padding-bottom: 5px;
+  height: 29px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 69px;
+  background-color: #f5f5f5;
+  font-size: 16px;
+  
+}
+
+/* Sort Styles */
+.sort {
+  margin-bottom: 10px;
+ 
+  
+}
+
+.sort label {
+  margin-right: 10px;
+}
+
+
+.sort select {
+  padding: 8px;
+  margin: auto;
+  background-color: #f5f5f5;
+  border: 1px solid #710606;
+  border-radius: 15px 20px 30px;
+  font-size: 16px;
+  color:#a1753d
+  font-family: initial;
+  
+}
+#order{
+  margin-left: 10px;
+}
+
+/* Table Styles */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 15px;
+  background-color: azure;
+  
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #69bdc2;
+  color: #fff;
+  background-color: grey;
+}
+ 
+
+
+
+.table th:hover {
+  cursor: pointer;
+  background-color: #032d29;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Pagination Styles */
+.pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pagination button {
+  padding: 10px 16px;
+  margin: 0 5px;
+  background-color:#5065c0a6
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 28px 14px;
+  transition: background-color 0.3s;
+  font-size: 16px;
+}
+
+.pagination button.active {
+  background-color: #0056b3;
+}
+
+.pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
