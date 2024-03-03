@@ -11,7 +11,7 @@ This project is a web-based dashboard displaying customer information. Below are
 ![Sorting by Customer Name](https://github.com/Yuvarajya/DataBase/blob/main/Images_Results/yuv2.jpg)
 
 ### Searching for a Customer by Name
-![Searching by Name](https://github.com/Yuvarajya/DataBase/blob/main/Images_Results/yuv3.jpg)
+![Searching by Name](https://github.com/Yuvarajya/DataBase/blob/main/Images_Results/yuv5.jpg)
 
 ## Features
 
