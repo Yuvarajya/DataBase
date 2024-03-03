@@ -4,6 +4,10 @@ This project is a web-based dashboard displaying customer information. Below are
 
 ## Screenshots
 
+## The Database in our Project/Task
+![ PostgreSQL Data](https://github.com/Yuvarajya/DataBase/blob/main/Images_Results/yuv_data.jpg)
+
+
 ### Sorting by Age in Descending Order
 ![Sorting by Age](https://github.com/Yuvarajya/DataBase/blob/main/Images_Results/yuv1.jpg)
 
