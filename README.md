@@ -29,19 +29,19 @@ To set up and run the project, follow these steps:
 ### Backend Setup
 
 
-npm init -y
+1. npm init -y
 
-npm install
+2. npm install
 
-node server.js
+3. node server.js
 
 ### Frontend Setup
 
-npm create vite@latest
+1. npm create vite@latest
 
-cd projectname
+2. cd projectname
 
-npm run dev
+3. npm run dev
 
 Replace projectname with the actual name of your project directory.
 
