@@ -30,13 +30,17 @@ To set up and run the project, follow these steps:
 
 
 npm init -y
+
 npm install
+
 node server.js
 
 ### Frontend Setup
 
 npm create vite@latest
+
 cd projectname
+
 npm run dev
 
 Replace projectname with the actual name of your project directory.
