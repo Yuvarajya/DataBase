@@ -32,7 +32,7 @@ cd DataBase/backend
 npm install
 
 # Start the backend server
-npm start
+node server.js
 
 # Navigate to the frontend and install dependencies
 cd ../frontend
